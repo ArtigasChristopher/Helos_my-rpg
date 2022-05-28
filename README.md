@@ -1,4 +1,4 @@
-<h3 align="center">my_rpg - HELOS</h3>
+<h3 align="center">MY_RPG - HELOS</h3>
 
 <div align="center">
 </div>
